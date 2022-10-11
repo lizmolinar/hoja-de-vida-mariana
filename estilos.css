@@ -1,0 +1,133 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ 
+body {
+
+    background: url(fondo.png);
+    background-size: 100%;
+    background-attachment: fixed;
+    
+ }
+
+header {
+
+    aling-items: center;
+    background: url(portatil.png);
+    text-align:center;
+    display: flex;
+    font-size: 48px;
+    color:blueviolet ;
+    transform: skewY(-3deg);
+    width: 120%;
+    height: 60px;
+    
+}
+
+.container {
+
+    .col-md-4, col-md-2, 
+    border: 0px;
+
+}
+
+.namema {
+
+    transform: skewY(3deg);
+}
+
+.cajainformacion {
+
+    display: flex;
+    
+}
+
+.datos2 {
+
+    font-size: 14px;
+    color: black;
+    width: 60%;
+}
+
+.estudios {
+
+    border: solid 1px #0000c5;
+    padding: 5px;
+    font-weight: bold;
+    background: blueviolet;
+    font-size: 14px;
+    color: black;
+    width: 700;
+}
+
+.est2 {
+ 
+    font-size: 14px;
+    color: black;
+    width: 60%;
+}
+
+.experiencia {
+
+    border: solid 1px #0000c5;
+    padding: 5px;
+    font-weight: bold;
+    background: blueviolet;
+    font-size: 14px;
+    color: black;
+    width: 700;
+}
+
+.ocupacion {
+
+    font-size: 15px;
+    color: black;
+    width: 60%;
+}
+
+.idiomas {
+
+    border: solid 1px #0000c5;
+    padding: 5px;
+    font-weight: bold;
+    background: blueviolet;
+    font-size: 16px;
+    color: black;
+    width: 900;
+
+}
+
+.refere {
+
+    border: solid 1px #0000c5;
+    padding: 5px;
+    font-weight: bold;
+    background: blueviolet;
+    font-size: 16px;
+    color: black;
+    width: 400;
+}
+
+.list-group {
+
+    font-size: 14px;
+    color: black;
+    width: 400;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
